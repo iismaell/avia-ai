@@ -17,8 +17,6 @@ export default async function (req, res) {
         presence_penalty: 0,
     });
 
-    console.log(answer)
-
     res.status(200).json({ result: answer.data.choices[0].text });
 }
 
