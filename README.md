@@ -1,4 +1,4 @@
-# OpenAI API Quickstart - Node.js example app
+# Avia Support AI Widget
 
 ## Setup
 
@@ -42,3 +42,6 @@ You should now be able to access the app at [http://localhost:3000](http://local
    $ npm run build
    ```
 
+## Screenshot
+
+![supportsupport](https://user-images.githubusercontent.com/1255475/208821566-261586a2-465f-4fc4-b33a-c74f3777511d.jpg)
